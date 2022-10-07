@@ -1,0 +1,114 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: #212121;
+  font-size: 14px;
+  font-weight: 400px;
+  font-style: normal;
+  letter-spacing: 0.03em;
+}
+.mark-links .btn {
+  background-color: #f5f4fa;
+  color: #212121;
+}
+.mark-links .btn:hover,
+.mark-links .btn:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+.mark-links .link {
+  color: #212121;
+}
+
+.mark-links .link:hover,
+.mark-links .link:focus {
+  color: #2196f3;
+}
+
+.mark-links .link-footer {
+  color: #ffffff;
+}
+.mark-links .link-footer:hover,
+.mark-links .link-footer:focus {
+  color: #2196f3;
+}
+.link-footer {
+  text-decoration: none;
+}
+.link {
+  text-decoration: none;
+  font-weight: 500;
+}
+.btn {
+  background-color: #2196f3;
+  border: none;
+  color: white;
+  padding: 25px 50px;
+
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+}
+
+.web {
+  color: #2196f3;
+}
+.pointer .btn {
+  cursor: pointer;
+}
+.first-title {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+}
+.second-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+}
+.dark-background {
+  background-color: #2f303a;
+  color: #ffffff;
+}
+.gray-background {
+  background-color: #f5f4fa;
+}
+.paragraph {
+  color: #757575;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.17;
+}
+.mark-links .paragraph:hover,
+.mark-links .paragraph:focus {
+  color: #2196f3;
+}
+.logo {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+}
+.third-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.17;
+}
+.img-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.17;
+}
+.footer-contact {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+}
+.navigation {
+  font-size: 14px;
+  line-height: 1.17;
+}
